@@ -1,0 +1,1 @@
+{"version":3,"file":"ms-auth.pattern.js","sourceRoot":"","sources":["../../src/ms-auth-client/ms-auth.pattern.ts"],"names":[],"mappings":";;;AAEa,QAAA,qBAAqB,GAAG;IACnC,IAAI,EAAE,WAAW;IACjB,KAAK,EAAE,YAAY;IACnB,OAAO,EAAE,cAAc;IACvB,MAAM,EAAE,aAAa;IACrB,mBAAmB,EAAE,4BAA4B;IACjD,SAAS,EAAE,kBAAkB;CACZ,CAAC"}

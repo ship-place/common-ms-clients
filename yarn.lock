@@ -107,8 +107,8 @@
   resolved "https://codeload.github.com/ship-place/reqresex/tar.gz/cd3f0781c5610f72710670e8a70514a0f6fdcbd1"
 
 "@ship-place/types@ship-place/types":
-  version "0.0.3"
-  resolved "https://codeload.github.com/ship-place/types/tar.gz/b488ddfc0baee9b8001b6687f5c66ee87e897fd7"
+  version "0.0.5"
+  resolved "https://codeload.github.com/ship-place/types/tar.gz/73007b62b7ceab6fee6ca453c515ed61ce03b68b"
 
 "@types/json-schema@^7.0.9":
   version "7.0.11"
