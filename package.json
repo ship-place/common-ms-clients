@@ -38,6 +38,7 @@
     "@nestjs/microservices": "^9.0.7",
     "@ship-place/ms-client-module": "ship-place/ms-client-module",
     "@ship-place/reqresex": "ship-place/reqresex",
+    "@ship-place/types": "ship-place/types",
     "kafkajs": "^2.2.4",
     "rxjs": "^7.8.0"
   },
